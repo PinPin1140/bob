@@ -187,7 +187,7 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
+baper = 'Arya4Me'
 apiku = 'https://youtu.be/2rWbjrDIAyA'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
@@ -217,7 +217,7 @@ memberlose = 1
 
 //Credit For 404 SQUAD ( Gk usah di hapus mek)
 //Lingz
-//Felix
+//Felixy
 //Lenz
 //Arya
 const uang = JSON.parse(fs.readFileSync('./database/user/uang.json'))
@@ -2196,7 +2196,7 @@ let papako = [{
 										}]
 								sendButLocation(from, teks , `Thank for verification 💋\n${botname}™© | By ${ownername}`,pp_userz, papako, {contextInfo: { mentionedJid: [sender]}})
                 break
-	case 'menu': case 'help':
+	case 'menugayy': case 'helpgayy':
 			try {
 				chatt = await alpha.getProfilePicture(sender)
 				} catch {
